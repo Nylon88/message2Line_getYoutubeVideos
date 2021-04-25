@@ -1,0 +1,3 @@
+# message2Line_getYoutubeVideos
+公式アカウントのLINEにメッセージを送ると、Youtubeのおすすめ動画を取得してきてくれます。
+
